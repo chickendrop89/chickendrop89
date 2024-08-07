@@ -14,4 +14,4 @@
 [![SourceForge](https://img.shields.io/badge/SourceForge-black?style=flat&logo=sourceforge&link=https%3A%2F%2Fsourceforge.net%2Fu%2Fchickendrop89)](https://sourceforge.net/u/chickendrop89)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chickendrop89&show_icons=true&disable_animations=true&hide_title=true&hide=contribs&theme=transparent&hide_border=true&text_color=e4e4e4&icon_color=ffffff&ring_color=ffffff)](https://github.com/chickendrop89?tab=repositories)
+[![GitHub stats](https://vercel-github-readme-stats-xi.vercel.app/api?username=chickendrop89&show_icons=true&disable_animations=true&hide_title=true&hide=contribs&theme=transparent&hide_border=true&text_color=e4e4e4&icon_color=ffffff&ring_color=ffffff)](https://github.com/chickendrop89?tab=repositories)
