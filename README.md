@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- https://github.com/leviarista/github-profile-header-generator -->
-[![Profile Banner](profile-banner-image.png)](https://github.com/chickendrop89)
+[![Profile Banner](profile-banner-image.webp)](https://github.com/chickendrop89)
 
 </div>
 
