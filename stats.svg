@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">chkndrp&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 421, Total Commits  : 3076, Total PRs: 5, Total Issues: 9</desc>
+        <desc id="descId">Total Stars Earned: 421, Total Commits  : 3075, Total PRs: 5, Total Issues: 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 105.94038901531789;
+        stroke-dashoffset: 105.9699805331967;
       }
     }
   
